@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>One Piece Fanpage</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #101820;
+      color: white;
+    }
+
+    header {
+      background: #d62828;
+      padding: 25px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 40px;
+    }
+
+    nav {
+      background: #111;
+      padding: 15px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 10px;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 30px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    .karte {
+      background: #1d2a35;
+      padding: 20px;
+      margin: 15px 0;
+      border-radius: 12px;
+    }
+
+    footer {
+      background: #111;
+      text-align: center;
+      padding: 20px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>🏴‍☠️ One Piece Fanpage</h1>
+  <p>Die Welt von One Piece entdecken</p>
+</header>
+
+<nav>
+  <a href="#charaktere">Charaktere</a>
+  <a href="#teufelsfruechte">Teufelsfrüchte</a>
+  <a href="#geschichte">Geschichte</a>
+  <a href="#kaiser">Vier Kaiser</a>
+  <a href="#samurai">Sieben Samurai</a>
+</nav>
+
+<section id="charaktere">
+  <h2>👒 Charaktere</h2>
+
+  <div class="karte">
+    <h3>Monkey D. Ruffy</h3>
+    <p>Kapitän der Strohhut-Piraten und auf der Suche nach dem One Piece.</p>
+  </div>
+
+  <div class="karte">
+    <h3>Roronoa Zoro</h3>
+    <p>Ein Schwertkämpfer der Strohhut-Piraten.</p>
+  </div>
+
+  <div class="karte">
+    <h3>Nami</h3>
+    <p>Die Navigatorin der Strohhut-Piraten.</p>
+  </div>
+</section>
+
+<section id="teufelsfruechte">
+  <h2>🍎 Teufelsfrüchte</h2>
+
+  <div class="karte">
+    <h3>Teufelsfrüchte</h3>
+    <p>
+      Hier werden später die verschiedenen Teufelsfrüchte
+      und ihre Fähigkeiten vorgestellt.
+    </p>
+  </div>
+</section>
+
+<section id="geschichte">
+  <h2>📖 Die Geschichte</h2>
+  <div class="karte">
+    <p>
+      Hier entsteht später eine Übersicht über die Geschichte
+      der Welt von One Piece.
+    </p>
+  </div>
+</section>
+
+<section id="kaiser">
+  <h2>👑 Die Vier Kaiser</h2>
+  <div class="karte">
+    <p>Hier kommen Informationen zu den Kaisern der Meere hin.</p>
+  </div>
+</section>
+
+<section id="samurai">
+  <h2>⚔️ Die Sieben Samurai der Meere</h2>
+  <div class="karte">
+    <p>Hier entsteht eine Übersicht über die Sieben Samurai.</p>
+  </div>
+</section>
+
+<footer>
+  <p>One Piece Fanpage – Fanprojekt</p>
+</footer>
+
+</body>
+</html>
